@@ -12,4 +12,19 @@
 
 # متطلبات التشغيل 
 
-عليك الحصول على مفتاح تشغيل الكود stripe api key من الموقع التليي 
+عليك الحصول على مفتاح تشغيل الكود stripe api key من الموقع التالي https://stripe.com/docs/keys بعد الحصول على المفتاح الان قم بتشغيل الكود ب الاوامر التالية 👇🏻
+
+pkg update && pkg upgrade -y
+
+pkg install python
+
+pkg install git
+
+git clone https://github.com/MrBOOND/Mrcards
+
+cd Mrcards
+
+pip install -r requirements.txt
+
+python 
+
