@@ -29,3 +29,8 @@ pip install -r requirements.txt
 python cards.py
 
 بعد ذالك سيطلب منك مفتاح API تدخل المفتاح وسوف يعمل معك البرنامح بنجاح
+
+# المؤلف
+تم تطوير الأداة بواسطة MrBOOND
+
+لا تنسى متابعتنا على Telegram https://t.me/BO_NND
