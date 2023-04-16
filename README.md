@@ -26,5 +26,8 @@ cd Mrcards
 
 pip install -r requirements.txt
 
-python 
+python cards.py
+
+بعد ذالك سيطلب منك مفتاء API تدخل المفتاح وسوف يعمل معك البرنامح بنحاح 
+
 
