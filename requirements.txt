@@ -1,4 +1,3 @@
 stripe
-pickle
 termcolor
 colorama
