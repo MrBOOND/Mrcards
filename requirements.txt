@@ -1,5 +1,4 @@
 stripe
-random
 pickle
 termcolor
 colorama
